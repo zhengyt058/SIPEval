@@ -65,7 +65,6 @@ Run judge for one or more models:
 
 ```bash
 bash judge.sh gpt-4o-mini
-bash judge.sh gpt-4o-mini qwen2.5-vl-72b
 ```
 
 ## Notes
@@ -74,6 +73,3 @@ bash judge.sh gpt-4o-mini qwen2.5-vl-72b
   Update these paths to match your own environment before running.
 - API-based generation requires valid API credentials (for example `API_BASE_URL` and `API_KEY`).
 
-## License
-
-No license file is currently included in this repository.
